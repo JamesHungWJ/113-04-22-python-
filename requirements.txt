@@ -1,2 +1,1 @@
 PyInputPlus
-pip install -r requirements.txt
